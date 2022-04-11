@@ -9,10 +9,7 @@ include 'header.php';?>
     </ol>
 
     </main>
-    
-<footer>
-        <p>Author of Site: Jacob Leckrone</p>
-</footer>
-
 </body>
+<?php 
+include 'footer.php';?>
 </html>

@@ -16,9 +16,8 @@ include 'header.php';?>
 
     </main>
     
-<footer>
-        <p>Author of Site: Jacob Leckrone</p>
-</footer>
+    <?php 
+include 'footer.php';?>
 
 </body>
 </html>
